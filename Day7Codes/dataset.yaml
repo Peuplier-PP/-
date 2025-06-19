@@ -1,0 +1,9 @@
+path: E:\实训\训练代码\Day7\datasets
+train: images\train
+val: images\val
+test:
+
+names:
+  0: apple
+  1: banana
+  2: orange
